@@ -74,16 +74,6 @@ Technology education mentor (Alice Code, Good Spirit Foundation), supporting wom
 
 ---
 
-## Publications
-
-**Sy-FAR: Symmetry-based Fair Adversarial Robustness**  
-Haneen Najjar, Eyal Ronen, Mahmood Sharif  
-*USENIX Security Symposium*, 2026  
-[arXiv:2509.12939](https://arxiv.org/abs/2509.12939) •  
-[Code](https://github.com/haneenn24/Sy-FAR-Symmetry-based-Fair-Adversarial-Robustness)
-
----
-
 ## Links
 
 - **GitHub:** https://github.com/haneenn24  
