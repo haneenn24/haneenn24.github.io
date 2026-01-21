@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default"
 # Site Author (left sidebar)
 author:
   name: "Haneen Najjar"
-  avatar: "/images/bio-photo.jpg"
+  avatar: "bio-photo.jpg"
   bio: "Researcher & applied ML engineer focusing on fair adversarial robustness, security-critical ML, and trustworthy computer vision."
   email: "haneennaj24@gmail.com"
   links:
