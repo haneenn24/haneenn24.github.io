@@ -52,6 +52,12 @@ defaults:
 include:
   - _pages
 
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
