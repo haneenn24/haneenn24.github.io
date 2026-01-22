@@ -56,6 +56,9 @@ collections:
   publications:
     output: true
     permalink: /publication/:path/
+  talks:
+    output: true
+
 
 
 # Build settings
