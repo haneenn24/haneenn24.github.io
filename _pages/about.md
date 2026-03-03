@@ -11,6 +11,15 @@ I work in **Trustworthy Machine Learning**, focusing on **adversarial robustness
 My research studies how to build **robust and fair ML models** under realistic threat models (e.g., eyeglasses and occlusion attacks), and how enforcing **symmetry** between class pairs can improve both robustness and fairness.
 
 
+## Research Experience
+
+**Research Intern — COoperative Machine Intelligence for People-Aligned Safe Systems (COMPASS)**  
+Max Planck Institute for Intelligent Systems  
+2026  
+
+Conducting research in AI safety and people-aligned machine intelligence, focusing on robustness and safety properties of modern ML systems under realistic threat models.
+
+<br>
 
 ## Academic Timeline
 
