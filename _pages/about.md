@@ -6,10 +6,7 @@ author_profile: true
 
 ## Haneen Najjar
 
-I work in **Trustworthy Machine Learning**, focusing on **adversarial robustness, fairness, and security-critical ML systems**, with an emphasis on computer vision and physically realizable attacks.
-
-My research studies how to build **robust and fair ML models** under realistic threat models (e.g., eyeglasses and occlusion attacks), and how enforcing **symmetry** between class pairs can improve both robustness and fairness.
-
+I work in **Trustworthy Machine Learning**, AI Safety and Security focusing on **adversarial robustness, fairness, and security-critical ML systems**, with an emphasis on computer vision, LLms and multi agent systems.
 
 ## Research Experience
 
@@ -45,19 +42,6 @@ Focus: technology strategy, leadership, and entrepreneurship
 
 **BSc in Computer Science & Mathematics**  
 University of Haifa
-
----
-
-## Research Domain — Trustworthy Machine Learning
-
-My work is centered on:
-
-- Adversarial robustness (targeted & untargeted attacks)  
-- Physically realizable attacks (eyeglasses, occlusion, patches)  
-- Fairness in security-critical ML systems  
-- Symmetry-based robustness and subgroup fairness  
-- Trustworthy computer vision and graph learning  
-- ML security and privacy  
 
 ---
 
