@@ -22,48 +22,68 @@ Conducting research in AI safety and people-aligned machine intelligence, focusi
 
 **PhD in Computer Science** *(ongoing)*  
 Tel Aviv University  
-Research area: Trustworthy Machine Learning, adversarial robustness, fairness, security-critical ML.
+Oct 2025 – Present  
+Research area: Trustworthy Machine Learning, AI safety, adversarial robustness, fairness, security-critical ML.
 
 <br>
 
 **MSc in Computer Science**  
 Tel Aviv University  
+2023 – 2025 (GPA 95)  
 Focus: Trustworthy ML, adversarial learning, fairness, security, and graph neural networks  
 Thesis: *Sy-FAR: Symmetry-based Fair Adversarial Robustness*  
-(accepted to USENIX Security 2026; arXiv:2509.12939)
+(accepted to [USENIX Security 2026](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_najjar.pdf))
 
 <br>
 
 **MBA (Technology, Innovation & Entrepreneurship)**  
 Tel Aviv University  
+2020 – 2021  
 Focus: technology strategy, leadership, and entrepreneurship
 
 <br>
 
 **BSc in Computer Science & Mathematics**  
-University of Haifa
+University of Haifa  
+2013 – 2017
 
 ---
 
 ## Industry Experience
 
-**NVIDIA**  
-*Senior Software Engineer → Team Lead*  
-Led and managed engineering teams working on high-performance networking software and infrastructure.  
-Bridged large-scale systems engineering with ML deployment constraints in production environments.
+**Hailo Technologies**, Tel Aviv, Israel  
+*Applied Machine Learning Engineer — Pretrained Models & Optimization*  
+Jan 2023 – Oct 2025  
+Led deep learning model development and optimization for edge-AI deployment.  
+Built training pipelines, model compression workflows, and deployment-ready optimization.
 
 <br>
 
-**Hailo Technologies**  
-*Senior Software Engineer — Pretrained Deep Learning Models and Model Optimization*  
-Led deep learning model development and optimization for edge-AI deployment.  
-Built training pipelines, model compression workflows, and deployment-ready optimization.
+**NVIDIA**, Tel Aviv, Israel  
+*Software Team Lead (Jul 2019 – Jan 2023) · Software Engineer (Oct 2017 – Jun 2019)*  
+Oct 2017 – Jan 2023  
+Led and managed engineering teams working on high-performance networking software and infrastructure.  
+Bridged large-scale systems engineering with ML deployment constraints in production environments.
+
+---
+
+## Teaching & Mentorship
+
+**Mentor — C/C++, Data Structures and Algorithms**  
+University of Haifa  
+2015 – 2017
 
 ---
 
 ## Volunteering
 
-Technology education mentor (Alice Code, Good Spirit Foundation), supporting women and undergraduates entering high-tech.
+**Alice Code Technology Program** — 2022 – Present  
+Technical mentorship and career guidance for women transitioning into the tech industry.
+
+<br>
+
+**Undergraduate Mentorship Program, Hi-Tech** — 2019 – Present  
+Mentoring computer science undergraduates entering the tech industry.
 
 ---
 
