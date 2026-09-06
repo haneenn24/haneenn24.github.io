@@ -49,6 +49,24 @@ University of Haifa
 
 ---
 
+## Industry Experience
+
+**Hailo Technologies**, Tel Aviv, Israel  
+*Applied Machine Learning Engineer — Pretrained Models & Optimization*  
+Jan 2023 – Oct 2025  
+Led deep learning model development and optimization for edge-AI deployment.  
+Built training pipelines, model compression workflows, and deployment-ready optimization.
+
+<br>
+
+**NVIDIA**, Tel Aviv, Israel  
+*Software Team Lead (Jul 2019 – Jan 2023) · Software Engineer (Oct 2017 – Jun 2019)*  
+Oct 2017 – Jan 2023  
+Led and managed engineering teams working on high-performance networking software and infrastructure.  
+Bridged large-scale systems engineering with ML deployment constraints in production environments.
+
+---
+
 ## Honors, Awards & Certificates
 
 **Neubauer Fellowship**  
@@ -73,24 +91,6 @@ NVIDIA
 **National Mathematical Olympiad Finalist**  
 Herzliya, Israel  
 2019
-
----
-
-## Industry Experience
-
-**Hailo Technologies**, Tel Aviv, Israel  
-*Applied Machine Learning Engineer — Pretrained Models & Optimization*  
-Jan 2023 – Oct 2025  
-Led deep learning model development and optimization for edge-AI deployment.  
-Built training pipelines, model compression workflows, and deployment-ready optimization.
-
-<br>
-
-**NVIDIA**, Tel Aviv, Israel  
-*Software Team Lead (Jul 2019 – Jan 2023) · Software Engineer (Oct 2017 – Jun 2019)*  
-Oct 2017 – Jan 2023  
-Led and managed engineering teams working on high-performance networking software and infrastructure.  
-Bridged large-scale systems engineering with ML deployment constraints in production environments.
 
 ---
 
