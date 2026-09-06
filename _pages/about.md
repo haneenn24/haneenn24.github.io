@@ -49,12 +49,30 @@ University of Haifa
 
 ---
 
-## Honors & Awards
+## Honors, Awards & Certificates
 
 **Neubauer Fellowship**  
 Neubauer Family Foundation  
 Aug 2026  
 Awarded the Neubauer Fellowship in support of my PhD studies and research.
+
+<br>
+
+**Deep Learning Model for Edge AI (Vision & Automotive) — Hackathon Award**  
+Hailo Technologies  
+2025
+
+<br>
+
+**Software Hackathon Certificate**  
+NVIDIA  
+2020
+
+<br>
+
+**National Mathematical Olympiad Finalist**  
+Herzliya, Israel  
+2019
 
 ---
 
