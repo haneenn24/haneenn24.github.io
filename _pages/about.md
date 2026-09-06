@@ -49,6 +49,15 @@ University of Haifa
 
 ---
 
+## Honors & Awards
+
+**Neubauer Fellowship**  
+Neubauer Family Foundation  
+Aug 2026  
+Awarded the Neubauer Fellowship in support of my PhD studies and research.
+
+---
+
 ## Industry Experience
 
 **Hailo Technologies**, Tel Aviv, Israel  
@@ -77,13 +86,16 @@ University of Haifa
 
 ## Volunteering
 
-**Alice Code Technology Program** — 2022 – Present  
-Technical mentorship and career guidance for women transitioning into the tech industry.
+**Research Mentor — Alpha Program**  
+Alpha Undergraduate Mentorship Program · Education  
+Oct 2025 – Present · 1 yr  
+Mentoring undergraduate students in research, providing guidance on research methods, project development, and academic growth.
 
 <br>
 
-**Undergraduate Mentorship Program, Hi-Tech** — 2019 – Present  
-Mentoring computer science undergraduates entering the tech industry.
+**Education Mentor**  
+Alice Code — leadership and technology for girls and young women · Education  
+Mar 2023 – 2026 · 2 yrs 11 mos
 
 ---
 
