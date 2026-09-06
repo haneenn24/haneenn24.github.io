@@ -94,14 +94,6 @@ Bridged large-scale systems engineering with ML deployment constraints in produc
 
 ---
 
-## Teaching & Mentorship
-
-**Mentor — C/C++, Data Structures and Algorithms**  
-University of Haifa  
-2015 – 2017
-
----
-
 ## Volunteering
 
 **Research Mentor — Alpha Program**  
