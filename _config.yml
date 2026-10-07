@@ -29,9 +29,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haneenn24"
-    - label: "arXiv"
-      icon: "ai ai-arxiv"
-      url: "https://arxiv.org/abs/2509.12939"
 
 # Plugins allowed by GitHub Pages
 plugins:
