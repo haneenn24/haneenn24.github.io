@@ -33,6 +33,7 @@
 .talk-table tbody th { width: 38%; font-weight: 400; }
 .talk-table tbody tr:last-child > * { border-bottom: 0; }
 .talk-table tbody tr:hover { background: var(--global-footer-bg-color); }
+.talk-date { display: inline-block; min-width: 6.5rem; font-weight: 700; color: var(--global-base-color); white-space: nowrap; }
 .talk-group, .talk-location { display: block; margin-top: .35rem; }
 .talk-location { font-size: .6rem; opacity: .85; }
 .talk-format { display: inline-block; font-size: .65rem; font-weight: 600; color: var(--global-base-color); }
@@ -44,6 +45,6 @@ html[data-theme="dark"] .talk-highlight { background: var(--global-footer-bg-col
 @media (max-width: 600px) {
   .profile-contact ul { display: flex; flex-wrap: wrap; gap: .2rem 1rem; }
   .publication-card h2 { font-size: 1.1rem; }
-  .talk-table { min-width: 560px; }
+  .talk-table { min-width: 700px; }
   .talk-highlight { padding: 1rem; }
 }

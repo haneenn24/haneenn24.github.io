@@ -1,19 +1,27 @@
 - institution: Tel Aviv University
+  date: "2025-06"
+  date_label: June 2025
   group: PLUS Group
   location: Israel
   format: Research seminar
   focus: Fairness-aware adversarial training, symmetry constraints, and empirical results.
 - institution: The Hebrew University of Jerusalem
+  date: "2025-06"
+  date_label: June 2025
   group: The 2nd Israeli Privacy and Fairness Workshop
   location: Israel
   format: Workshop talk
   focus: Fairness–robustness trade-offs under physically realizable attacks.
 - institution: ETH Zurich
+  date: "2026-01"
+  date_label: January 2026
   group: Machine Learning and Cryptography
   location: Switzerland
   format: Invited talk
   focus: Symmetry-based fairness and robustness in security-critical ML systems.
 - institution: Carnegie Mellon University
+  date: "2026-08"
+  date_label: August 2026
   group: CyLab
   location: USA
   format: Research talk

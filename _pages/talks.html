@@ -16,10 +16,11 @@ author_profile: true
 <div class="talk-table-wrap" role="region" aria-label="Talk venues" tabindex="0">
   <table class="talk-table">
     <caption>Sy-FAR presentations across four academic venues</caption>
-    <thead><tr><th scope="col">Venue</th><th scope="col">Format</th><th scope="col">Focus</th></tr></thead>
+    <thead><tr><th scope="col">Date</th><th scope="col">Venue</th><th scope="col">Format</th><th scope="col">Focus</th></tr></thead>
     <tbody>
     {% for talk in site.data.talks %}
       <tr>
+        <td><time class="talk-date" datetime="{{ talk.date }}">{{ talk.date_label }}</time></td>
         <th scope="row"><strong>{{ talk.institution }}</strong><span class="talk-group">{{ talk.group }}</span><span class="talk-location"><i class="fas fa-location-dot" aria-hidden="true"></i> {{ talk.location }}</span></th>
         <td><span class="talk-format">{{ talk.format }}</span></td>
         <td>{{ talk.focus }}</td>
