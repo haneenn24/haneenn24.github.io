@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks & presentations"
 permalink: /talks/
 author_profile: true
 ---
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<p class="section-intro">Sharing research on fair and robust machine learning.</p>
+<div class="talk-highlight">
+  <span class="eyebrow">Featured research</span>
+  <h2>Sy-FAR: Symmetry-based Fair Adversarial Robustness</h2>
+  <div class="resource-links">
+    <a href="https://arxiv.org/abs/2509.12939">Read the paper <span aria-hidden="true">↗</span></a>
+    <a href="{{ '/files/SyFAR_poster.pdf' | relative_url }}">View poster <span class="resource-format">PDF</span></a>
+  </div>
+</div>
+<div class="talk-table-wrap" role="region" aria-label="Talk venues" tabindex="0">
+  <table class="talk-table">
+    <caption>Sy-FAR presentations across four academic venues</caption>
+    <thead><tr><th scope="col">Venue</th><th scope="col">Format</th><th scope="col">Focus</th></tr></thead>
+    <tbody>
+    {% for talk in site.data.talks %}
+      <tr>
+        <th scope="row"><strong>{{ talk.institution }}</strong><span class="talk-group">{{ talk.group }}</span><span class="talk-location"><i class="fas fa-location-dot" aria-hidden="true"></i> {{ talk.location }}</span></th>
+        <td><span class="talk-format">{{ talk.format }}</span></td>
+        <td>{{ talk.focus }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,20 @@
+- institution: Tel Aviv University
+  group: PLUS Group
+  location: Israel
+  format: Research seminar
+  focus: Fairness-aware adversarial training, symmetry constraints, and empirical results.
+- institution: The Hebrew University of Jerusalem
+  group: The 2nd Israeli Privacy and Fairness Workshop
+  location: Israel
+  format: Workshop talk
+  focus: Fairness–robustness trade-offs under physically realizable attacks.
+- institution: ETH Zurich
+  group: Machine Learning and Cryptography
+  location: Switzerland
+  format: Invited talk
+  focus: Symmetry-based fairness and robustness in security-critical ML systems.
+- institution: Carnegie Mellon University
+  group: CyLab
+  location: USA
+  format: Research talk
+  focus: The Sy-FAR framework and its implications for fair and secure machine learning.

@@ -1,0 +1,14 @@
+<article class="publication-card">
+  <p class="publication-venue">{{ post.venue | escape }}</p>
+  <h2><a href="{{ post.paperurl }}">{{ post.title }}</a></h2>
+  <p class="publication-authors">{{ post.authors | escape | replace: 'Haneen Najjar', '<strong>Haneen Najjar</strong>' }}</p>
+  <ul class="research-tags" aria-label="Research topics">
+    {% for tag in post.tags %}<li>{{ tag }}</li>{% endfor %}
+  </ul>
+  <div class="resource-links" aria-label="Resources for {{ post.title | escape }}">
+    <a href="{{ post.paperurl }}"><i class="fas fa-file-lines" aria-hidden="true"></i> Paper</a>
+    {% if post.posterurl %}<a href="{{ post.posterurl | relative_url }}"><i class="fas fa-image" aria-hidden="true"></i> Poster <span class="resource-format">PDF</span></a>{% endif %}
+    {% if post.preprinturl %}<a href="{{ post.preprinturl }}">arXiv</a>{% endif %}
+    {% if post.codeurl %}<a href="{{ post.codeurl }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{% endif %}
+  </div>
+</article>

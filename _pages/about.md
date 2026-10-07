@@ -106,10 +106,3 @@ Mentoring undergraduate students in research, providing guidance on research met
 **Education Mentor**  
 Alice Code — leadership and technology for girls and young women · Education  
 Mar 2023 – 2026 · 2 yrs 11 mos
-
----
-
-## Links
-
-- **GitHub:** https://github.com/haneenn24  
-- **LinkedIn:** https://www.linkedin.com/in/haneen-najjar2494
