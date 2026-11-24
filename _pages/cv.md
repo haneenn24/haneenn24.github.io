@@ -18,6 +18,6 @@ redirect_from:
 <div class="cv-pages" aria-label="CV preview">
   <a href="{{ '/files/haneen_cv.pdf' | relative_url }}" aria-label="Read the full CV as a PDF">
     <img src="{{ '/images/cv/haneen-cv-1.png' | relative_url }}" alt="CV page 1: summary, education, publications, and professional experience. Full text available in the linked PDF." width="1237" height="1600">
-    <img src="{{ '/images/cv/haneen-cv-2.png' | relative_url }}" alt="CV page 2: professional experience continued, technical skills, awards, and volunteering. Full text available in the linked PDF." width="1237" height="1600" loading="lazy">
+    <img src="{{ '/images/cv/haneen-cv-2.png' | relative_url }}" alt="CV page 2: professional experience continued, technical skills, awards, academic service, and volunteering. Full text available in the linked PDF." width="1237" height="1600" loading="lazy">
   </a>
 </div>
