@@ -76,6 +76,20 @@ Awarded the Neubauer Fellowship in support of my PhD studies and research.
 
 <br>
 
+**GREPSEC VII Travel Award**  
+USENIX Association · GREPSEC Workshop for PhD Students in Security & Privacy  
+Aug 2026  
+Selected to attend GREPSEC VII in Baltimore, MD (co-located with USENIX Security '26), with an award supporting travel.
+
+<br>
+
+**Barel Travel Scholarship**  
+Center for AI and Data Science (TAD), Tel Aviv University  
+Jun 2026  
+Awarded to support presenting my research at a leading international conference.
+
+<br>
+
 **Deep Learning Model for Edge AI (Vision & Automotive) — Hackathon Award**  
 Hailo Technologies  
 2025
@@ -91,6 +105,14 @@ NVIDIA
 **National Mathematical Olympiad Finalist**  
 Herzliya, Israel  
 2019
+
+---
+
+## Academic Service
+
+**Journal Reviewer**  
+IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)  
+2026
 
 ---
 
